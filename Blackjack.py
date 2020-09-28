@@ -1,3 +1,5 @@
+"""Blackjack implementation, based on OpenAI Gym's implementation."""
+
 import gym
 from gym import spaces
 from gym.utils import seeding
